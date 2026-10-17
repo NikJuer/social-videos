@@ -82,7 +82,7 @@ Wer den Text ändert, legt neben das Video eine Datei `<ID>_caption.txt` mit der
 - **Marke:** NetSecure.Media · **Serie:** UniFi erklärt · **Status:** Eingeplant
 - **Dateiname:** `NSM-02_Smart-TV-im-Firmennetz_A-Helmut.mp4` (liegt in `videos/2_eingeplant/`)
 - **Hook (erstes Bild):** Dein Smart-TV hängt im selben Netz wie eure Buchhaltung?
-- **Hinweis:** A/B-Test der Stimme: beide Fassungen gleichzeitig am 18.10. um 10:00 – A: NSM-02_Smart-TV-im-Firmennetz_A-Helmut.mp4, B: NSM-02_Smart-TV-im-Firmennetz_B-Ostfriesland.mp4. Auswertung nach 48 h und 7 Tagen (Details in NSM-02_INFO.md).
+- **Hinweis:** A/B-Test der Stimme, Auswertung über TikTok: A (Helmut) So 18.10. 10:00 auf Instagram, TikTok und YouTube – B (Ostfriesland) Mo 19.10. 10:00 nur auf TikTok. Dateien: NSM-02_Smart-TV-im-Firmennetz_A-Helmut.mp4 / NSM-02_Smart-TV-im-Firmennetz_B-Ostfriesland.mp4. Vergleich nach 48 h und 7 Tagen.
 - **Material:** Keine, komplett animiert
 - **Sprechertext / Untertitel:**
   1. Dein Smart-TV hängt im selben Netz wie eure Buchhaltung?

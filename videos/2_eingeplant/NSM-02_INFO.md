@@ -25,3 +25,12 @@ Nach 48 Stunden und nach 7 Tagen in Metricool je Plattform vergleichen:
 - Likes, Kommentare, Shares, Saves
 
 Die Stimme, die vorne liegt, wird Standard für die weiteren NetSecure.Media-Videos.
+
+## Änderung (17.10.2026, mit Dominik abgestimmt)
+
+Nicht gleichzeitig, sondern nacheinander, damit sich die Fassungen nicht gegenseitig Reichweite nehmen. Ausgewertet wird über TikTok, weil Instagram zu wenige Aufrufe für einen Vergleich hat.
+
+- **A (Helmut):** So 18.10.2026, 10:00 auf Instagram (Reel), TikTok und YouTube (Short)
+- **B (Ostfriesland):** Mo 19.10.2026, 10:00 nur auf TikTok
+
+Hinweis zur Auswertung: Montag 10 Uhr ist auf TikTok laut Metricool etwas stärker als Sonntag 10 Uhr. Ein knapper Vorsprung von B ist daher kein klares Ergebnis.
