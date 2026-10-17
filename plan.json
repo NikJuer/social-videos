@@ -1,5 +1,41 @@
 [
  {
+  "series": "UniFi erklärt",
+  "title": "Smart-TV im Firmennetz?",
+  "status": "Eingeplant",
+  "hook": "Dein Smart-TV hängt im selben Netz wie eure Buchhaltung?",
+  "voice": [
+   "Dein Smart-TV hängt im selben Netz wie eure Buchhaltung?",
+   "Mit UniFi trennen wir das sauber in VLANs: Büro, Kameras, Gäste und Smart-Geräte.",
+   "Jedes Netz sieht nur, was es sehen darf. Die Firewall regelt den Rest.",
+   "Ein Netz, klar getrennt. Technik, die funktioniert."
+  ],
+  "scenes": [
+   "Ein großes Netz: alle Geräte wild verbunden, rote Warnlinie TV → Buchhaltung",
+   "Geräte sortieren sich in vier farbige Zonen (VLAN 10/20/30/40)",
+   "Firewall-Schild blockt Querverbindung, erlaubte Wege leuchten",
+   "Endkarte"
+  ],
+  "assets": "Keine, komplett animiert",
+  "id": "NSM-02",
+  "brand": "nsm",
+  "date": "2026-10-18",
+  "weekday": "So",
+  "time": "10:00",
+  "hashtags": "#NetSecureMedia #UniFi #Ubiquiti #Netzwerktechnik #WLAN #Ostfriesland #Leer #VLAN #ITSicherheit #SmartHome",
+  "platforms": [
+   "Instagram Reel",
+   "TikTok",
+   "YouTube Short"
+  ],
+  "note": "A/B-Test der Stimme: beide Fassungen gleichzeitig am 18.10. um 10:00 – A: NSM-02_Smart-TV-im-Firmennetz_A-Helmut.mp4, B: NSM-02_Smart-TV-im-Firmennetz_B-Ostfriesland.mp4. Auswertung nach 48 h und 7 Tagen (Details in NSM-02_INFO.md).",
+  "caption": "Dein Smart-TV hängt im selben Netz wie eure Buchhaltung?\n\nMit UniFi trennen wir das sauber in VLANs: Büro, Kameras, Gäste und Smart-Geräte. Jedes Netz sieht nur, was es sehen darf. Die Firewall regelt den Rest. Ein Netz, klar getrennt. Technik, die funktioniert.\n\n👉 Beratung & Installation in Leer und Ostfriesland: netsecure.media (Link in Bio)\n\n#NetSecureMedia #UniFi #Ubiquiti #Netzwerktechnik #WLAN #Ostfriesland #Leer #VLAN #ITSicherheit #SmartHome",
+  "tt_title": "Smart-TV im Firmennetz?",
+  "yt_title": "Dein Smart-TV hängt im selben Netz wie eure Buchhaltung? #shorts",
+  "filename": "NSM-02_Smart-TV-im-Firmennetz_A-Helmut.mp4",
+  "file": "videos/2_eingeplant/NSM-02_Smart-TV-im-Firmennetz_A-Helmut.mp4"
+ },
+ {
   "series": "Feature",
   "title": "Was sieht dein Referent eigentlich?",
   "status": "Eingeplant",
@@ -125,39 +161,12 @@
   "filename": "SD-03_NDI.mp4"
  },
  {
-  "series": "UniFi erklärt",
-  "title": "Smart-TV im Firmennetz?",
-  "status": "Offen",
-  "hook": "Dein Smart-TV hängt im selben Netz wie eure Buchhaltung?",
-  "voice": [
-   "Dein Smart-TV hängt im selben Netz wie eure Buchhaltung?",
-   "Mit UniFi trennen wir das sauber in VLANs: Büro, Kameras, Gäste und Smart-Geräte.",
-   "Jedes Netz sieht nur, was es sehen darf. Die Firewall regelt den Rest.",
-   "Ein Netz, klar getrennt. Technik, die funktioniert."
-  ],
-  "scenes": [
-   "Ein großes Netz: alle Geräte wild verbunden, rote Warnlinie TV → Buchhaltung",
-   "Geräte sortieren sich in vier farbige Zonen (VLAN 10/20/30/40)",
-   "Firewall-Schild blockt Querverbindung, erlaubte Wege leuchten",
-   "Endkarte"
-  ],
-  "assets": "Keine, komplett animiert",
-  "id": "NSM-02",
-  "brand": "nsm",
+  "id": null,
   "date": "2026-11-03",
   "weekday": "Di",
   "time": "10:00",
-  "hashtags": "#NetSecureMedia #UniFi #Ubiquiti #Netzwerktechnik #WLAN #Ostfriesland #Leer #VLAN #ITSicherheit #SmartHome",
-  "platforms": [
-   "Instagram Reel",
-   "TikTok",
-   "YouTube Short"
-  ],
-  "note": "Erster Entwurf verworfen – bitte neu erstellen",
-  "caption": "Dein Smart-TV hängt im selben Netz wie eure Buchhaltung?\n\nMit UniFi trennen wir das sauber in VLANs: Büro, Kameras, Gäste und Smart-Geräte. Jedes Netz sieht nur, was es sehen darf. Die Firewall regelt den Rest. Ein Netz, klar getrennt. Technik, die funktioniert.\n\n👉 Beratung & Installation in Leer und Ostfriesland: netsecure.media (Link in Bio)\n\n#NetSecureMedia #UniFi #Ubiquiti #Netzwerktechnik #WLAN #Ostfriesland #Leer #VLAN #ITSicherheit #SmartHome",
-  "tt_title": "Smart-TV im Firmennetz?",
-  "yt_title": "Dein Smart-TV hängt im selben Netz wie eure Buchhaltung? #shorts",
-  "filename": "NSM-02_Smart-TV-im-Firmennetz.mp4"
+  "free": true,
+  "note": "Frei – das nächste fertige Video rückt nach"
  },
  {
   "series": "Produkt",

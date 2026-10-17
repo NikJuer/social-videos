@@ -12,11 +12,12 @@ Stand: 17.10.2026
 
 | Termin | ID | Marke | Titel | Status | Dateiname |
 |---|---|---|---|---|---|
+| So 18.10.2026 | NSM-02 | NetSecure.Media | Smart-TV im Firmennetz? | Eingeplant | `NSM-02_Smart-TV-im-Firmennetz_A-Helmut.mp4` |
 | Di 20.10.2026 | SD-01 | StageDisplay | Was sieht dein Referent eigentlich? | Eingeplant | `SD-01_Ansichten.mp4` |
 | Fr 23.10.2026 | TD-01 | TechnikDruck | Halter abgebrochen | Eingeplant | `TD-01_Halter-abgebrochen.mp4` |
 | Di 27.10.2026 | SD-02 | StageDisplay | Alle Monitore müssen umschalten | Eingeplant | `SD-02_Monitore-umschalten.mp4` |
 | Fr 30.10.2026 | SD-03 | StageDisplay | Kein HDMI-Kabel bis zur Bühne? | Eingeplant | `SD-03_NDI.mp4` |
-| Di 03.11.2026 | NSM-02 | NetSecure.Media | Smart-TV im Firmennetz? | Offen | `NSM-02_Smart-TV-im-Firmennetz.mp4` |
+| Di 03.11.2026 | – | – | *Frei – das nächste fertige Video rückt nach* | Frei | – |
 | Fr 06.11.2026 | TD-02 | TechnikDruck | T8-Trapezmutter für Creality | Offen | `TD-02_T8-Trapezmutter-fuer-Creality.mp4` |
 | Di 10.11.2026 | NSM-06 | NetSecure.Media | Kartenzahlung am Glühweinstand | Offen | `NSM-06_Kartenzahlung-am-Gluehweinstand.mp4` |
 | Fr 13.11.2026 | SD-04 | StageDisplay | Nachricht aus der Regie | Offen | `SD-04_Nachricht-aus-der-Regie.mp4` |
@@ -75,6 +76,37 @@ Hook, Sprechertext und Szenen sind **Vorschläge**. Der Stil kommt von dir bzw. 
 Wer den Text ändert, legt neben das Video eine Datei `<ID>_caption.txt` mit der gewünschten Caption, sonst wird die Caption unten verwendet.
 
 ### Oktober 2026
+
+#### So 18.10.2026 · NSM-02 · Smart-TV im Firmennetz?
+
+- **Marke:** NetSecure.Media · **Serie:** UniFi erklärt · **Status:** Eingeplant
+- **Dateiname:** `NSM-02_Smart-TV-im-Firmennetz_A-Helmut.mp4` (liegt in `videos/2_eingeplant/`)
+- **Hook (erstes Bild):** Dein Smart-TV hängt im selben Netz wie eure Buchhaltung?
+- **Hinweis:** A/B-Test der Stimme: beide Fassungen gleichzeitig am 18.10. um 10:00 – A: NSM-02_Smart-TV-im-Firmennetz_A-Helmut.mp4, B: NSM-02_Smart-TV-im-Firmennetz_B-Ostfriesland.mp4. Auswertung nach 48 h und 7 Tagen (Details in NSM-02_INFO.md).
+- **Material:** Keine, komplett animiert
+- **Sprechertext / Untertitel:**
+  1. Dein Smart-TV hängt im selben Netz wie eure Buchhaltung?
+  2. Mit UniFi trennen wir das sauber in VLANs: Büro, Kameras, Gäste und Smart-Geräte.
+  3. Jedes Netz sieht nur, was es sehen darf. Die Firewall regelt den Rest.
+  4. Ein Netz, klar getrennt. Technik, die funktioniert.
+- **Szenen:**
+  - Ein großes Netz: alle Geräte wild verbunden, rote Warnlinie TV → Buchhaltung
+  - Geräte sortieren sich in vier farbige Zonen (VLAN 10/20/30/40)
+  - Firewall-Schild blockt Querverbindung, erlaubte Wege leuchten
+  - Endkarte
+- **TikTok-Titel:** Smart-TV im Firmennetz?
+- **YouTube-Titel:** Dein Smart-TV hängt im selben Netz wie eure Buchhaltung? #shorts
+- **Caption:**
+
+```text
+Dein Smart-TV hängt im selben Netz wie eure Buchhaltung?
+
+Mit UniFi trennen wir das sauber in VLANs: Büro, Kameras, Gäste und Smart-Geräte. Jedes Netz sieht nur, was es sehen darf. Die Firewall regelt den Rest. Ein Netz, klar getrennt. Technik, die funktioniert.
+
+👉 Beratung & Installation in Leer und Ostfriesland: netsecure.media (Link in Bio)
+
+#NetSecureMedia #UniFi #Ubiquiti #Netzwerktechnik #WLAN #Ostfriesland #Leer #VLAN #ITSicherheit #SmartHome
+```
 
 #### Di 20.10.2026 · SD-01 · Was sieht dein Referent eigentlich?
 
@@ -182,37 +214,6 @@ StageDisplay Regie schickt jeden Kanal als NDI®-Stream ins Netzwerk. Wo ein Net
 ```
 
 ### November 2026
-
-#### Di 03.11.2026 · NSM-02 · Smart-TV im Firmennetz?
-
-- **Marke:** NetSecure.Media · **Serie:** UniFi erklärt · **Status:** Offen
-- **Dateiname:** `NSM-02_Smart-TV-im-Firmennetz.mp4`
-- **Hook (erstes Bild):** Dein Smart-TV hängt im selben Netz wie eure Buchhaltung?
-- **Hinweis:** Erster Entwurf verworfen – bitte neu erstellen
-- **Material:** Keine, komplett animiert
-- **Sprechertext / Untertitel:**
-  1. Dein Smart-TV hängt im selben Netz wie eure Buchhaltung?
-  2. Mit UniFi trennen wir das sauber in VLANs: Büro, Kameras, Gäste und Smart-Geräte.
-  3. Jedes Netz sieht nur, was es sehen darf. Die Firewall regelt den Rest.
-  4. Ein Netz, klar getrennt. Technik, die funktioniert.
-- **Szenen:**
-  - Ein großes Netz: alle Geräte wild verbunden, rote Warnlinie TV → Buchhaltung
-  - Geräte sortieren sich in vier farbige Zonen (VLAN 10/20/30/40)
-  - Firewall-Schild blockt Querverbindung, erlaubte Wege leuchten
-  - Endkarte
-- **TikTok-Titel:** Smart-TV im Firmennetz?
-- **YouTube-Titel:** Dein Smart-TV hängt im selben Netz wie eure Buchhaltung? #shorts
-- **Caption:**
-
-```text
-Dein Smart-TV hängt im selben Netz wie eure Buchhaltung?
-
-Mit UniFi trennen wir das sauber in VLANs: Büro, Kameras, Gäste und Smart-Geräte. Jedes Netz sieht nur, was es sehen darf. Die Firewall regelt den Rest. Ein Netz, klar getrennt. Technik, die funktioniert.
-
-👉 Beratung & Installation in Leer und Ostfriesland: netsecure.media (Link in Bio)
-
-#NetSecureMedia #UniFi #Ubiquiti #Netzwerktechnik #WLAN #Ostfriesland #Leer #VLAN #ITSicherheit #SmartHome
-```
 
 #### Fr 06.11.2026 · TD-02 · T8-Trapezmutter für Creality
 
