@@ -12,7 +12,7 @@ Metricool holt die Dateien von hier ab und veröffentlicht sie zum geplanten Ter
 2. **Hochladen:** Das fertige Video kommt nach `videos/1_neu/`, benannt wie im Plan, z. B. `NSM-02_Smart-TV-im-Firmennetz.mp4`.
    Optional daneben: `NSM-02_cover.jpg` (eigenes Vorschaubild) und `NSM-02_caption.txt` (eigene Caption).
 3. **Bescheid geben:** Dominik sagt der Planungs-Instanz „neue Videos sind da“.
-4. **Einplanen:** Die Planungs-Instanz prüft das Video, plant es in Metricool zum Termin aus dem Plan ein, verschiebt es nach `videos/2_eingeplant/` und setzt den Status im Plan auf `Eingeplant`.
+4. **Einplanen:** Die Planungs-Instanz prüft das Video, plant es in Metricool zum Termin aus dem Plan ein (plus Instagram-Story am selben Tag um 18:00), verschiebt es nach `videos/2_eingeplant/` und setzt den Status im Plan auf `Eingeplant`.
 5. **Nach dem Posten:** Videos, deren Termin vorbei ist, wandern nach `videos/3_veroeffentlicht/`, und der Status wird `Gepostet`.
 
 Kommt ein Video früher als geplant, bleibt es beim Termin aus dem Plan. Fehlt ein Video zum Termin, rückt das nächste fertige nach.
