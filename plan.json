@@ -161,12 +161,41 @@
   "filename": "SD-03_NDI.mp4"
  },
  {
-  "id": null,
+  "series": "Über uns",
+  "title": "Wer steckt hinter NetSecure.Media?",
+  "status": "Offen",
+  "hook": "Wer steckt eigentlich hinter NetSecure.Media?",
+  "voice": [
+   "Wer steckt eigentlich hinter NetSecure.Media?",
+   "Dominik Jürgens – aus Leer in Ostfriesland.",
+   "Netzwerke mit UniFi. Videoüberwachung, datenschutzkonform. Mail und Hosting auf Servern in Deutschland. Und WLAN für dein Event.",
+   "Persönlich aus Leer statt Hotline. Antwort meist am selben oder nächsten Werktag.",
+   "NetSecure.Media. Technik, die funktioniert."
+  ],
+  "scenes": [
+   "Visitenkarte mit „?“",
+   "Karte füllt sich: DJ, Dominik Jürgens, Inhaber, Leer · Ostfriesland („Moin aus Leer.“)",
+   "4 Leistungskarten: Netzwerk/UniFi, Videoüberwachung/DSGVO, Mail & Hosting/Server in DE, Event-WLAN",
+   "Chat „Persönlich statt Hotline.“ (Beispiel-Nachrichten ausgedacht)",
+   "Endkarte"
+  ],
+  "assets": "Keine, komplett animiert",
+  "id": "NSM-27",
+  "brand": "nsm",
   "date": "2026-11-03",
   "weekday": "Di",
   "time": "10:00",
-  "free": true,
-  "note": "Frei – das nächste fertige Video rückt nach"
+  "hashtags": "#NetSecureMedia #Leer #Ostfriesland #UniFi #Netzwerktechnik #Videoüberwachung #Hosting #EventWLAN",
+  "platforms": [
+   "Instagram Reel",
+   "TikTok",
+   "YouTube Short"
+  ],
+  "note": "Vorstellungsvideo, außer der Reihe gebaut am 24.10.2026 (Stimme Helmut, Eleven v4). Rückt in den freien Di 03.11. Cover: NSM-27_cover.jpg.",
+  "caption": "Wer steckt eigentlich hinter NetSecure.Media? 👋\n\nIch bin Dominik Jürgens aus Leer in Ostfriesland. Netzwerke mit UniFi, datenschutzkonforme Videoüberwachung, Mail und Hosting auf Servern in Deutschland – und WLAN für dein Event.\n\nPersönlich aus Leer statt Hotline. Antwort meist am selben oder nächsten Werktag.\n\n👉 Mehr unter netsecure.media (Link in Bio)\n\n#NetSecureMedia #Leer #Ostfriesland #UniFi #Netzwerktechnik #Videoüberwachung #Hosting #EventWLAN",
+  "tt_title": "Wer steckt hinter NetSecure.Media?",
+  "yt_title": "Wer steckt hinter NetSecure.Media? Moin aus Leer #shorts",
+  "filename": "NSM-27_Wer-steckt-hinter-NetSecure-Media.mp4"
  },
  {
   "series": "Produkt",

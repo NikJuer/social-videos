@@ -17,7 +17,7 @@ Stand: 24.10.2026
 | Fr 23.10.2026 | TD-01 | TechnikDruck | Halter abgebrochen | Gepostet | `TD-01_Halter-abgebrochen.mp4` |
 | Di 27.10.2026 | SD-02 | StageDisplay | Alle Monitore müssen umschalten | Eingeplant | `SD-02_Monitore-umschalten.mp4` |
 | Fr 30.10.2026 | SD-03 | StageDisplay | Kein HDMI-Kabel bis zur Bühne? | Eingeplant | `SD-03_NDI.mp4` |
-| Di 03.11.2026 | – | – | *Frei – das nächste fertige Video rückt nach* | Frei | – |
+| Di 03.11.2026 | NSM-27 | NetSecure.Media | Wer steckt hinter NetSecure.Media? | Offen | `NSM-27_Wer-steckt-hinter-NetSecure-Media.mp4` |
 | Fr 06.11.2026 | TD-02 | TechnikDruck | T8-Trapezmutter für Creality | Offen | `TD-02_T8-Trapezmutter-fuer-Creality.mp4` |
 | Di 10.11.2026 | NSM-06 | NetSecure.Media | Kartenzahlung am Glühweinstand | Eingeplant | `NSM-06_Kartenzahlung-am-Gluehweinstand.mp4` |
 | Fr 13.11.2026 | SD-04 | StageDisplay | Nachricht aus der Regie | Offen | `SD-04_Nachricht-aus-der-Regie.mp4` |
@@ -214,6 +214,41 @@ StageDisplay Regie schickt jeden Kanal als NDI®-Stream ins Netzwerk. Wo ein Net
 ```
 
 ### November 2026
+
+#### Di 03.11.2026 · NSM-27 · Wer steckt hinter NetSecure.Media?
+
+- **Marke:** NetSecure.Media · **Serie:** Über uns · **Status:** Offen
+- **Dateiname:** `NSM-27_Wer-steckt-hinter-NetSecure-Media.mp4`
+- **Hook (erstes Bild):** Wer steckt eigentlich hinter NetSecure.Media?
+- **Hinweis:** Vorstellungsvideo, außer der Reihe gebaut am 24.10.2026 (Stimme Helmut, Eleven v4). Rückt in den freien Di 03.11. Cover: NSM-27_cover.jpg.
+- **Material:** Keine, komplett animiert
+- **Sprechertext / Untertitel:**
+  1. Wer steckt eigentlich hinter NetSecure.Media?
+  2. Dominik Jürgens – aus Leer in Ostfriesland.
+  3. Netzwerke mit UniFi. Videoüberwachung, datenschutzkonform. Mail und Hosting auf Servern in Deutschland. Und WLAN für dein Event.
+  4. Persönlich aus Leer statt Hotline. Antwort meist am selben oder nächsten Werktag.
+  5. NetSecure.Media. Technik, die funktioniert.
+- **Szenen:**
+  - Visitenkarte mit „?“
+  - Karte füllt sich: DJ, Dominik Jürgens, Inhaber, Leer · Ostfriesland („Moin aus Leer.“)
+  - 4 Leistungskarten: Netzwerk/UniFi, Videoüberwachung/DSGVO, Mail & Hosting/Server in DE, Event-WLAN
+  - Chat „Persönlich statt Hotline.“ (Beispiel-Nachrichten ausgedacht)
+  - Endkarte
+- **TikTok-Titel:** Wer steckt hinter NetSecure.Media?
+- **YouTube-Titel:** Wer steckt hinter NetSecure.Media? Moin aus Leer #shorts
+- **Caption:**
+
+```text
+Wer steckt eigentlich hinter NetSecure.Media? 👋
+
+Ich bin Dominik Jürgens aus Leer in Ostfriesland. Netzwerke mit UniFi, datenschutzkonforme Videoüberwachung, Mail und Hosting auf Servern in Deutschland – und WLAN für dein Event.
+
+Persönlich aus Leer statt Hotline. Antwort meist am selben oder nächsten Werktag.
+
+👉 Mehr unter netsecure.media (Link in Bio)
+
+#NetSecureMedia #Leer #Ostfriesland #UniFi #Netzwerktechnik #Videoüberwachung #Hosting #EventWLAN
+```
 
 #### Fr 06.11.2026 · TD-02 · T8-Trapezmutter für Creality
 
