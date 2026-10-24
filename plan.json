@@ -201,7 +201,7 @@
  {
   "series": "Produkt",
   "title": "T8-Trapezmutter für Creality",
-  "status": "Offen",
+  "status": "Eingeplant",
   "hook": "Ender-3 mit Spiel in der Z-Achse?",
   "voice": [
    "Dein Ender-3 hat Spiel in der Z-Achse?",
@@ -215,7 +215,7 @@
    "Modell-Chips: CR-10 · CR-10S · Ender-3 · 3S · 3 Pro",
    "Preis-Pill + Endkarte"
   ],
-  "assets": "Produktfoto, 3D-Render oder STL der T8-Trapezmutter",
+  "assets": "Keine, komplett animiert (2D)",
   "id": "TD-02",
   "brand": "td",
   "date": "2026-11-06",
@@ -230,7 +230,8 @@
   "caption": "Ender-3 mit Spiel in der Z-Achse?\n\nUnsere T8-Trapezmutter ist eine Anti-Backlash-Spaltmutter aus verschleißfestem iglidur i190PF. Passend für CR-10, CR-10S, Ender-3, 3S und 3 Pro. Ab 12,90 Euro auf technikdruck.de.\n\n👉 Anfrage & Shop: technikdruck.de (Link in Bio)\n\n#TechnikDruck #3DDruck #Ersatzteil #Ostfriesland #Leer #Creality #Ender3 #3DDrucker",
   "tt_title": "T8-Trapezmutter für Creality",
   "yt_title": "Ender-3 mit Spiel in der Z-Achse? #shorts",
-  "filename": "TD-02_T8-Trapezmutter-fuer-Creality.mp4"
+  "filename": "TD-02_T8-Trapezmutter-fuer-Creality.mp4",
+  "file": "videos/2_eingeplant/TD-02_T8-Trapezmutter-fuer-Creality.mp4"
  },
  {
   "series": "Event-Netz",

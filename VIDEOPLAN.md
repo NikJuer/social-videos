@@ -4,7 +4,7 @@ Zwei Uploads pro Woche, jeweils 10:00 Uhr auf Instagram (Reel), TikTok und YouTu
 **Dienstag NetSecure.Media**, **Freitag abwechselnd TechnikDruck und StageDisplay**.
 Wie Videos ins Repo kommen und was danach passiert, steht in der [README](README.md).
 
-Stand: 24.10.2026
+Stand: 25.10.2026
 
 **Status:** `Eingeplant` = in Metricool terminiert · `Gepostet` = veröffentlicht · `Offen` = Video fehlt noch · `Material nötig` = Video fehlt, und es braucht echte Fotos/Clips/Infos von Dominik
 
@@ -18,7 +18,7 @@ Stand: 24.10.2026
 | Di 27.10.2026 | SD-02 | StageDisplay | Alle Monitore müssen umschalten | Eingeplant | `SD-02_Monitore-umschalten.mp4` |
 | Fr 30.10.2026 | SD-03 | StageDisplay | Kein HDMI-Kabel bis zur Bühne? | Eingeplant | `SD-03_NDI.mp4` |
 | Di 03.11.2026 | NSM-27 | NetSecure.Media | Wer steckt hinter NetSecure.Media? | Eingeplant | `NSM-27_Wer-steckt-hinter-NetSecure-Media.mp4` |
-| Fr 06.11.2026 | TD-02 | TechnikDruck | T8-Trapezmutter für Creality | Offen | `TD-02_T8-Trapezmutter-fuer-Creality.mp4` |
+| Fr 06.11.2026 | TD-02 | TechnikDruck | T8-Trapezmutter für Creality | Eingeplant | `TD-02_T8-Trapezmutter-fuer-Creality.mp4` |
 | Di 10.11.2026 | NSM-06 | NetSecure.Media | Kartenzahlung am Glühweinstand | Eingeplant | `NSM-06_Kartenzahlung-am-Gluehweinstand.mp4` |
 | Fr 13.11.2026 | SD-04 | StageDisplay | Nachricht aus der Regie | Offen | `SD-04_Nachricht-aus-der-Regie.mp4` |
 | Di 17.11.2026 | NSM-07 | NetSecure.Media | Mehr Access Points statt stärkerem Router | Offen | `NSM-07_Mehr-Access-Points-statt-staerkerem.mp4` |
@@ -252,10 +252,10 @@ Persönlich aus Leer statt Hotline. Antwort meist am selben oder nächsten Werkt
 
 #### Fr 06.11.2026 · TD-02 · T8-Trapezmutter für Creality
 
-- **Marke:** TechnikDruck · **Serie:** Produkt · **Status:** Offen
-- **Dateiname:** `TD-02_T8-Trapezmutter-fuer-Creality.mp4`
+- **Marke:** TechnikDruck · **Serie:** Produkt · **Status:** Eingeplant
+- **Dateiname:** `TD-02_T8-Trapezmutter-fuer-Creality.mp4` (liegt in `videos/2_eingeplant/`)
 - **Hook (erstes Bild):** Ender-3 mit Spiel in der Z-Achse?
-- **Material:** Produktfoto, 3D-Render oder STL der T8-Trapezmutter
+- **Material:** Keine, komplett animiert (2D)
 - **Sprechertext / Untertitel:**
   1. Dein Ender-3 hat Spiel in der Z-Achse?
   2. Unsere T8-Trapezmutter ist eine Anti-Backlash-Spaltmutter aus verschleißfestem iglidur i190PF.
