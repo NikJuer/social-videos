@@ -4,7 +4,7 @@ Zwei Uploads pro Woche, jeweils 10:00 Uhr auf Instagram (Reel), TikTok und YouTu
 **Dienstag NetSecure.Media**, **Freitag abwechselnd TechnikDruck und StageDisplay**.
 Wie Videos ins Repo kommen und was danach passiert, steht in der [README](README.md).
 
-Stand: 17.10.2026
+Stand: 24.10.2026
 
 **Status:** `Eingeplant` = in Metricool terminiert · `Gepostet` = veröffentlicht · `Offen` = Video fehlt noch · `Material nötig` = Video fehlt, und es braucht echte Fotos/Clips/Infos von Dominik
 
@@ -12,14 +12,14 @@ Stand: 17.10.2026
 
 | Termin | ID | Marke | Titel | Status | Dateiname |
 |---|---|---|---|---|---|
-| So 18.10.2026 | NSM-02 | NetSecure.Media | Smart-TV im Firmennetz? | Eingeplant | `NSM-02_Smart-TV-im-Firmennetz_A-Helmut.mp4` |
-| Di 20.10.2026 | SD-01 | StageDisplay | Was sieht dein Referent eigentlich? | Eingeplant | `SD-01_Ansichten.mp4` |
-| Fr 23.10.2026 | TD-01 | TechnikDruck | Halter abgebrochen | Eingeplant | `TD-01_Halter-abgebrochen.mp4` |
+| So 18.10.2026 | NSM-02 | NetSecure.Media | Smart-TV im Firmennetz? | Gepostet | `NSM-02_Smart-TV-im-Firmennetz_A-Helmut.mp4` |
+| Di 20.10.2026 | SD-01 | StageDisplay | Was sieht dein Referent eigentlich? | Gepostet | `SD-01_Ansichten.mp4` |
+| Fr 23.10.2026 | TD-01 | TechnikDruck | Halter abgebrochen | Gepostet | `TD-01_Halter-abgebrochen.mp4` |
 | Di 27.10.2026 | SD-02 | StageDisplay | Alle Monitore müssen umschalten | Eingeplant | `SD-02_Monitore-umschalten.mp4` |
 | Fr 30.10.2026 | SD-03 | StageDisplay | Kein HDMI-Kabel bis zur Bühne? | Eingeplant | `SD-03_NDI.mp4` |
 | Di 03.11.2026 | – | – | *Frei – das nächste fertige Video rückt nach* | Frei | – |
 | Fr 06.11.2026 | TD-02 | TechnikDruck | T8-Trapezmutter für Creality | Offen | `TD-02_T8-Trapezmutter-fuer-Creality.mp4` |
-| Di 10.11.2026 | NSM-06 | NetSecure.Media | Kartenzahlung am Glühweinstand | Offen | `NSM-06_Kartenzahlung-am-Gluehweinstand.mp4` |
+| Di 10.11.2026 | NSM-06 | NetSecure.Media | Kartenzahlung am Glühweinstand | Eingeplant | `NSM-06_Kartenzahlung-am-Gluehweinstand.mp4` |
 | Fr 13.11.2026 | SD-04 | StageDisplay | Nachricht aus der Regie | Offen | `SD-04_Nachricht-aus-der-Regie.mp4` |
 | Di 17.11.2026 | NSM-07 | NetSecure.Media | Mehr Access Points statt stärkerem Router | Offen | `NSM-07_Mehr-Access-Points-statt-staerkerem.mp4` |
 | Fr 20.11.2026 | TD-03 | TechnikDruck | Material-O-Mat | Offen | `TD-03_Material-O-Mat.mp4` |
@@ -79,8 +79,8 @@ Wer den Text ändert, legt neben das Video eine Datei `<ID>_caption.txt` mit der
 
 #### So 18.10.2026 · NSM-02 · Smart-TV im Firmennetz?
 
-- **Marke:** NetSecure.Media · **Serie:** UniFi erklärt · **Status:** Eingeplant
-- **Dateiname:** `NSM-02_Smart-TV-im-Firmennetz_A-Helmut.mp4` (liegt in `videos/2_eingeplant/`)
+- **Marke:** NetSecure.Media · **Serie:** UniFi erklärt · **Status:** Gepostet
+- **Dateiname:** `NSM-02_Smart-TV-im-Firmennetz_A-Helmut.mp4` (liegt in `videos/3_veroeffentlicht/`)
 - **Hook (erstes Bild):** Dein Smart-TV hängt im selben Netz wie eure Buchhaltung?
 - **Hinweis:** A/B-Test der Stimme, Auswertung über TikTok: A (Helmut) So 18.10. 10:00 auf Instagram, TikTok und YouTube – B (Ostfriesland) Mo 19.10. 10:00 nur auf TikTok. Dateien: NSM-02_Smart-TV-im-Firmennetz_A-Helmut.mp4 / NSM-02_Smart-TV-im-Firmennetz_B-Ostfriesland.mp4. Vergleich nach 48 h und 7 Tagen.
 - **Material:** Keine, komplett animiert
@@ -110,8 +110,8 @@ Mit UniFi trennen wir das sauber in VLANs: Büro, Kameras, Gäste und Smart-Ger�
 
 #### Di 20.10.2026 · SD-01 · Was sieht dein Referent eigentlich?
 
-- **Marke:** StageDisplay · **Serie:** Feature · **Status:** Eingeplant
-- **Dateiname:** `SD-01_Ansichten.mp4` (liegt in `videos/2_eingeplant/`)
+- **Marke:** StageDisplay · **Serie:** Feature · **Status:** Gepostet
+- **Dateiname:** `SD-01_Ansichten.mp4` (liegt in `videos/3_veroeffentlicht/`)
 - **Hook (erstes Bild):** Was sieht dein Referent eigentlich?
 - **Material:** Fertig
 - **Sprechertext / Untertitel:**
@@ -136,8 +136,8 @@ Am besten genau das, was er braucht: Notizen, aktuelle und nächste Folie, Redez
 
 #### Fr 23.10.2026 · TD-01 · Halter abgebrochen
 
-- **Marke:** TechnikDruck · **Serie:** Service · **Status:** Eingeplant
-- **Dateiname:** `TD-01_Halter-abgebrochen.mp4` (liegt in `videos/2_eingeplant/`)
+- **Marke:** TechnikDruck · **Serie:** Service · **Status:** Gepostet
+- **Dateiname:** `TD-01_Halter-abgebrochen.mp4` (liegt in `videos/3_veroeffentlicht/`)
 - **Hook (erstes Bild):** Oh nein … mein Halter ist abgebrochen.
 - **Material:** Fertig
 - **Sprechertext / Untertitel:**
@@ -247,8 +247,8 @@ Unsere T8-Trapezmutter ist eine Anti-Backlash-Spaltmutter aus verschleißfestem 
 
 #### Di 10.11.2026 · NSM-06 · Kartenzahlung am Glühweinstand
 
-- **Marke:** NetSecure.Media · **Serie:** Event-Netz · **Status:** Offen
-- **Dateiname:** `NSM-06_Kartenzahlung-am-Gluehweinstand.mp4`
+- **Marke:** NetSecure.Media · **Serie:** Event-Netz · **Status:** Eingeplant
+- **Dateiname:** `NSM-06_Kartenzahlung-am-Gluehweinstand.mp4` (liegt in `videos/2_eingeplant/`)
 - **Hook (erstes Bild):** Kartenzahlung am Glühweinstand – und das Terminal sucht Netz.
 - **Material:** Keine
 - **Sprechertext / Untertitel:**

@@ -2,7 +2,7 @@
  {
   "series": "UniFi erklärt",
   "title": "Smart-TV im Firmennetz?",
-  "status": "Eingeplant",
+  "status": "Gepostet",
   "hook": "Dein Smart-TV hängt im selben Netz wie eure Buchhaltung?",
   "voice": [
    "Dein Smart-TV hängt im selben Netz wie eure Buchhaltung?",
@@ -33,13 +33,13 @@
   "tt_title": "Smart-TV im Firmennetz?",
   "yt_title": "Dein Smart-TV hängt im selben Netz wie eure Buchhaltung? #shorts",
   "filename": "NSM-02_Smart-TV-im-Firmennetz_A-Helmut.mp4",
-  "file": "videos/2_eingeplant/NSM-02_Smart-TV-im-Firmennetz_A-Helmut.mp4"
+  "file": "videos/3_veroeffentlicht/NSM-02_Smart-TV-im-Firmennetz_A-Helmut.mp4"
  },
  {
   "series": "Feature",
   "title": "Was sieht dein Referent eigentlich?",
-  "status": "Eingeplant",
-  "file": "videos/2_eingeplant/SD-01_Ansichten.mp4",
+  "status": "Gepostet",
+  "file": "videos/3_veroeffentlicht/SD-01_Ansichten.mp4",
   "hook": "Was sieht dein Referent eigentlich?",
   "voice": [
    "Was sieht dein Referent eigentlich?",
@@ -69,8 +69,8 @@
  {
   "series": "Service",
   "title": "Halter abgebrochen",
-  "status": "Eingeplant",
-  "file": "videos/2_eingeplant/TD-01_Halter-abgebrochen.mp4",
+  "status": "Gepostet",
+  "file": "videos/3_veroeffentlicht/TD-01_Halter-abgebrochen.mp4",
   "hook": "Oh nein … mein Halter ist abgebrochen.",
   "voice": [
    "Oh nein … mein Halter ist abgebrochen. Und so einen gibt’s nirgends mehr!",
@@ -205,7 +205,7 @@
  {
   "series": "Event-Netz",
   "title": "Kartenzahlung am Glühweinstand",
-  "status": "Offen",
+  "status": "Eingeplant",
   "hook": "Kartenzahlung am Glühweinstand – und das Terminal sucht Netz.",
   "voice": [
    "Kartenzahlung am Glühweinstand – und das Terminal sucht Netz.",
@@ -234,7 +234,8 @@
   "caption": "Kartenzahlung am Glühweinstand – und das Terminal sucht Netz.\n\nFür Weihnachtsmärkte bauen wir ein eigenes Netz für alle Buden, mit 5G-Anbindung und Ausfallsicherung. Die Kassen laufen getrennt vom Gäste-WLAN. Damit am Stand nur der Glühwein warm wird, nicht der Kopf.\n\n👉 Event-Netz anfragen: netsecure.media (Link in Bio)\n\n#NetSecureMedia #EventWLAN #Veranstaltungstechnik #Eventtechnik #UniFi #Ostfriesland #Weihnachtsmarkt #Kartenzahlung",
   "tt_title": "Kartenzahlung am Glühweinstand",
   "yt_title": "Kartenzahlung am Glühweinstand – und das Terminal sucht Netz. #shorts",
-  "filename": "NSM-06_Kartenzahlung-am-Gluehweinstand.mp4"
+  "filename": "NSM-06_Kartenzahlung-am-Gluehweinstand.mp4",
+  "file": "videos/2_eingeplant/NSM-06_Kartenzahlung-am-Gluehweinstand.mp4"
  },
  {
   "series": "Feature",
