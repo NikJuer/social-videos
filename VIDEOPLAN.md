@@ -21,7 +21,7 @@ Stand: 25.10.2026
 | Fr 06.11.2026 | TD-02 | TechnikDruck | T8-Trapezmutter für Creality | Eingeplant | `TD-02_T8-Trapezmutter-fuer-Creality.mp4` |
 | Di 10.11.2026 | NSM-06 | NetSecure.Media | Kartenzahlung am Glühweinstand | Eingeplant | `NSM-06_Kartenzahlung-am-Gluehweinstand.mp4` |
 | Fr 13.11.2026 | SD-04 | StageDisplay | Nachricht aus der Regie | Eingeplant | `SD-04_Nachricht-aus-der-Regie.mp4` |
-| Di 17.11.2026 | NSM-07 | NetSecure.Media | Mehr Access Points statt stärkerem Router | Offen | `NSM-07_Mehr-Access-Points-statt-staerkerem.mp4` |
+| Di 17.11.2026 | NSM-07 | NetSecure.Media | Mehr Access Points statt stärkerem Router | Eingeplant | `NSM-07_Mehr-Access-Points-statt-staerkerem.mp4` |
 | Fr 20.11.2026 | TD-03 | TechnikDruck | Material-O-Mat | Offen | `TD-03_Material-O-Mat.mp4` |
 | Di 24.11.2026 | NSM-01 | NetSecure.Media | Internet auf der grünen Wiese | Offen | `NSM-01_Internet-auf-der-gruenen-Wiese.mp4` |
 | Fr 27.11.2026 | SD-05 | StageDisplay | Ein Rechner, drei Bühnenmonitore | Offen | `SD-05_Ein-Rechner-drei-Buehnenmonitore.mp4` |
@@ -341,8 +341,8 @@ Mit StageDisplay Regie schickst du einen Hinweis direkt auf seinen Monitor. Nur 
 
 #### Di 17.11.2026 · NSM-07 · Mehr Access Points statt stärkerem Router
 
-- **Marke:** NetSecure.Media · **Serie:** UniFi erklärt · **Status:** Offen
-- **Dateiname:** `NSM-07_Mehr-Access-Points-statt-staerkerem.mp4`
+- **Marke:** NetSecure.Media · **Serie:** UniFi erklärt · **Status:** Eingeplant
+- **Dateiname:** `NSM-07_Mehr-Access-Points-statt-staerkerem.mp4` (liegt in `videos/2_eingeplant/`)
 - **Hook (erstes Bild):** Stärkerer Router, trotzdem schlechtes WLAN?
 - **Material:** Keine
 - **Sprechertext / Untertitel:**

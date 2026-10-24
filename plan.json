@@ -305,7 +305,7 @@
  {
   "series": "UniFi erklärt",
   "title": "Mehr Access Points statt stärkerem Router",
-  "status": "Offen",
+  "status": "Eingeplant",
   "hook": "Stärkerer Router, trotzdem schlechtes WLAN?",
   "voice": [
    "Stärkerer Router gekauft – und das WLAN ist trotzdem schlecht?",
@@ -334,7 +334,8 @@
   "caption": "Stärkerer Router, trotzdem schlechtes WLAN?\n\nGutes WLAN kommt nicht aus einem lauten Gerät, sondern aus mehreren gut verteilten Access Points. Wir planen Standorte, Kanäle und Roaming, damit dein Handy immer den nächsten Punkt nimmt. WLAN mit WiFi 7, sauber geplant.\n\n👉 Beratung & Installation in Leer und Ostfriesland: netsecure.media (Link in Bio)\n\n#NetSecureMedia #UniFi #Ubiquiti #Netzwerktechnik #WLAN #Ostfriesland #Leer #WiFi7 #AccessPoint",
   "tt_title": "Mehr Access Points statt stärkerem Router",
   "yt_title": "Stärkerer Router, trotzdem schlechtes WLAN? #shorts",
-  "filename": "NSM-07_Mehr-Access-Points-statt-staerkerem.mp4"
+  "filename": "NSM-07_Mehr-Access-Points-statt-staerkerem.mp4",
+  "file": "videos/2_eingeplant/NSM-07_Mehr-Access-Points-statt-staerkerem.mp4"
  },
  {
   "series": "Service",
