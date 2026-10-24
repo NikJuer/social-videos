@@ -34,3 +34,19 @@ Nicht gleichzeitig, sondern nacheinander, damit sich die Fassungen nicht gegense
 - **B (Ostfriesland):** Mo 19.10.2026, 10:00 nur auf TikTok
 
 Hinweis zur Auswertung: Montag 10 Uhr ist auf TikTok laut Metricool etwas stärker als Sonntag 10 Uhr. Ein knapper Vorsprung von B ist daher kein klares Ergebnis.
+
+## Ergebnis (TikTok, Metricool, Stand 24.10.2026)
+
+| | A (Helmut, So 18.10.) | B (Ostfriesland, Mo 19.10.) |
+|---|---|---|
+| Aufrufe | 1.880 | 562 |
+| Reichweite | 1.609 | 525 |
+| Likes | 17 | 4 |
+| Kommentare | 0 | 0 |
+| Shares | 3 | 1 |
+| Ø Wiedergabedauer | 7 s (von 23,1 s) | 4 s (von 21,1 s) |
+| Komplett angesehen | etwa doppelt so oft wie B | – |
+
+A liegt trotz des schwächeren Sendeplatzes (Sonntag) bei allen Werten klar vorn. A lief einen Tag länger, das erklärt den Abstand aber nicht.
+
+**Entscheidung (Dominik):** Helmut wird Standard für NetSecure.Media und StageDisplay. TechnikDruck bekommt ab TD-02 die Stimme „Junger Mann aus Ostfriesland“. Vertont wird nur noch mit Eleven v4 (siehe `CLAUDE.md`).

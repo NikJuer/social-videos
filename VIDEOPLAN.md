@@ -82,7 +82,7 @@ Wer den Text ändert, legt neben das Video eine Datei `<ID>_caption.txt` mit der
 - **Marke:** NetSecure.Media · **Serie:** UniFi erklärt · **Status:** Gepostet
 - **Dateiname:** `NSM-02_Smart-TV-im-Firmennetz_A-Helmut.mp4` (liegt in `videos/3_veroeffentlicht/`)
 - **Hook (erstes Bild):** Dein Smart-TV hängt im selben Netz wie eure Buchhaltung?
-- **Hinweis:** A/B-Test der Stimme, Auswertung über TikTok: A (Helmut) So 18.10. 10:00 auf Instagram, TikTok und YouTube – B (Ostfriesland) Mo 19.10. 10:00 nur auf TikTok. Dateien: NSM-02_Smart-TV-im-Firmennetz_A-Helmut.mp4 / NSM-02_Smart-TV-im-Firmennetz_B-Ostfriesland.mp4. Vergleich nach 48 h und 7 Tagen.
+- **Hinweis:** A/B-Test der Stimme, Auswertung über TikTok: A (Helmut) So 18.10. 10:00 auf Instagram, TikTok und YouTube – B (Ostfriesland) Mo 19.10. 10:00 nur auf TikTok. Dateien: NSM-02_Smart-TV-im-Firmennetz_A-Helmut.mp4 / NSM-02_Smart-TV-im-Firmennetz_B-Ostfriesland.mp4. Vergleich nach 48 h und 7 Tagen. Ergebnis (TikTok, Stand 24.10.2026): A 1.880 Aufrufe / 17 Likes / Ø 7 s, B 562 Aufrufe / 4 Likes / Ø 4 s. A klar vorn → Helmut ist Standard für NetSecure.Media und StageDisplay, TechnikDruck ab TD-02 „Junger Mann aus Ostfriesland“, nur Eleven v4. Details in NSM-02_INFO.md.
 - **Material:** Keine, komplett animiert
 - **Sprechertext / Untertitel:**
   1. Dein Smart-TV hängt im selben Netz wie eure Buchhaltung?
