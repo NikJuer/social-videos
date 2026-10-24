@@ -271,7 +271,7 @@
  {
   "series": "Feature",
   "title": "Nachricht aus der Regie",
-  "status": "Offen",
+  "status": "Eingeplant",
   "hook": "Wie sagst du dem Referenten „noch 2 Minuten“ – ohne auf die Bühne zu laufen?",
   "voice": [
    "Wie sagst du dem Referenten „noch zwei Minuten“ – ohne auf die Bühne zu laufen?",
@@ -284,7 +284,7 @@
    "Publikumsseite: Leinwand unverändert",
    "Endkarte"
   ],
-  "assets": "Screen-Recording der Hinweis-Funktion (oder UI nachbauen)",
+  "assets": "Keine, UI nach StageDisplay 1.3.5 nachgebaut (Ticker + Hinweis-Overlay)",
   "id": "SD-04",
   "brand": "sd",
   "date": "2026-11-13",
@@ -299,7 +299,8 @@
   "caption": "Wie sagst du dem Referenten „noch 2 Minuten“ – ohne auf die Bühne zu laufen?\n\nMit StageDisplay Regie schickst du einen Hinweis direkt auf seinen Monitor. Nur er sieht ihn. Das Publikum nicht.\n\n👉 Kostenlos testen: stagedisplay.net (Link in Bio)\n\n#StageDisplayRegie #Veranstaltungstechnik #EventTech #Bühnentechnik #Konferenz #Moderation",
   "tt_title": "Nachricht aus der Regie",
   "yt_title": "Wie sagst du dem Referenten „noch 2 Minuten“ – ohne auf die Bühne zu laufen? #shorts",
-  "filename": "SD-04_Nachricht-aus-der-Regie.mp4"
+  "filename": "SD-04_Nachricht-aus-der-Regie.mp4",
+  "file": "videos/2_eingeplant/SD-04_Nachricht-aus-der-Regie.mp4"
  },
  {
   "series": "UniFi erklärt",

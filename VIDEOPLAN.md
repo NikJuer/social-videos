@@ -20,7 +20,7 @@ Stand: 25.10.2026
 | Di 03.11.2026 | NSM-27 | NetSecure.Media | Wer steckt hinter NetSecure.Media? | Eingeplant | `NSM-27_Wer-steckt-hinter-NetSecure-Media.mp4` |
 | Fr 06.11.2026 | TD-02 | TechnikDruck | T8-Trapezmutter für Creality | Eingeplant | `TD-02_T8-Trapezmutter-fuer-Creality.mp4` |
 | Di 10.11.2026 | NSM-06 | NetSecure.Media | Kartenzahlung am Glühweinstand | Eingeplant | `NSM-06_Kartenzahlung-am-Gluehweinstand.mp4` |
-| Fr 13.11.2026 | SD-04 | StageDisplay | Nachricht aus der Regie | Offen | `SD-04_Nachricht-aus-der-Regie.mp4` |
+| Fr 13.11.2026 | SD-04 | StageDisplay | Nachricht aus der Regie | Eingeplant | `SD-04_Nachricht-aus-der-Regie.mp4` |
 | Di 17.11.2026 | NSM-07 | NetSecure.Media | Mehr Access Points statt stärkerem Router | Offen | `NSM-07_Mehr-Access-Points-statt-staerkerem.mp4` |
 | Fr 20.11.2026 | TD-03 | TechnikDruck | Material-O-Mat | Offen | `TD-03_Material-O-Mat.mp4` |
 | Di 24.11.2026 | NSM-01 | NetSecure.Media | Internet auf der grünen Wiese | Offen | `NSM-01_Internet-auf-der-gruenen-Wiese.mp4` |
@@ -312,10 +312,10 @@ Für Weihnachtsmärkte bauen wir ein eigenes Netz für alle Buden, mit 5G-Anbind
 
 #### Fr 13.11.2026 · SD-04 · Nachricht aus der Regie
 
-- **Marke:** StageDisplay · **Serie:** Feature · **Status:** Offen
-- **Dateiname:** `SD-04_Nachricht-aus-der-Regie.mp4`
+- **Marke:** StageDisplay · **Serie:** Feature · **Status:** Eingeplant
+- **Dateiname:** `SD-04_Nachricht-aus-der-Regie.mp4` (liegt in `videos/2_eingeplant/`)
 - **Hook (erstes Bild):** Wie sagst du dem Referenten „noch 2 Minuten“ – ohne auf die Bühne zu laufen?
-- **Material:** Screen-Recording der Hinweis-Funktion (oder UI nachbauen)
+- **Material:** Keine, UI nach StageDisplay 1.3.5 nachgebaut (Ticker + Hinweis-Overlay)
 - **Sprechertext / Untertitel:**
   1. Wie sagst du dem Referenten „noch zwei Minuten“ – ohne auf die Bühne zu laufen?
   2. Mit StageDisplay Regie schickst du einen Hinweis direkt auf seinen Monitor.
