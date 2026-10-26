@@ -4,7 +4,7 @@ Zwei Uploads pro Woche, jeweils 10:00 Uhr auf Instagram (Reel), TikTok und YouTu
 **Dienstag NetSecure.Media**, **Freitag abwechselnd TechnikDruck und StageDisplay**.
 Wie Videos ins Repo kommen und was danach passiert, steht in der [README](README.md).
 
-Stand: 25.10.2026
+Stand: 26.10.2026
 
 **Status:** `Eingeplant` = in Metricool terminiert · `Gepostet` = veröffentlicht · `Offen` = Video fehlt noch · `Material nötig` = Video fehlt, und es braucht echte Fotos/Clips/Infos von Dominik
 
@@ -22,7 +22,7 @@ Stand: 25.10.2026
 | Di 10.11.2026 | NSM-06 | NetSecure.Media | Kartenzahlung am Glühweinstand | Eingeplant | `NSM-06_Kartenzahlung-am-Gluehweinstand.mp4` |
 | Fr 13.11.2026 | SD-04 | StageDisplay | Nachricht aus der Regie | Eingeplant | `SD-04_Nachricht-aus-der-Regie.mp4` |
 | Di 17.11.2026 | NSM-07 | NetSecure.Media | Mehr Access Points statt stärkerem Router | Eingeplant | `NSM-07_Mehr-Access-Points-statt-staerkerem.mp4` |
-| Fr 20.11.2026 | TD-03 | TechnikDruck | Material-O-Mat | Offen | `TD-03_Material-O-Mat.mp4` |
+| Fr 20.11.2026 | TD-03 | TechnikDruck | Material-O-Mat | Eingeplant | `TD-03_Material-O-Mat.mp4` |
 | Di 24.11.2026 | NSM-01 | NetSecure.Media | Internet auf der grünen Wiese | Offen | `NSM-01_Internet-auf-der-gruenen-Wiese.mp4` |
 | Fr 27.11.2026 | SD-05 | StageDisplay | Ein Rechner, drei Bühnenmonitore | Offen | `SD-05_Ein-Rechner-drei-Buehnenmonitore.mp4` |
 | Di 01.12.2026 | NSM-13 | NetSecure.Media | Internet weg? Die Kasse merkt es nicht. | Offen | `NSM-13_Internet-weg-Die-Kasse-merkt.mp4` |
@@ -371,10 +371,10 @@ Gutes WLAN kommt nicht aus einem lauten Gerät, sondern aus mehreren gut verteil
 
 #### Fr 20.11.2026 · TD-03 · Material-O-Mat
 
-- **Marke:** TechnikDruck · **Serie:** Service · **Status:** Offen
-- **Dateiname:** `TD-03_Material-O-Mat.mp4`
+- **Marke:** TechnikDruck · **Serie:** Service · **Status:** Eingeplant
+- **Dateiname:** `TD-03_Material-O-Mat.mp4` (liegt in `videos/2_eingeplant/`)
 - **Hook (erstes Bild):** PLA, PETG oder ASA? Du musst es nicht wissen.
-- **Material:** Optional: Screen-Recording Material-O-Mat
+- **Material:** Keine, Material-O-Mat von technikdruck.de nachgebaut (Innenbereich → flexibel → TPU)
 - **Sprechertext / Untertitel:**
   1. PLA, PETG oder ASA? Du musst es nicht wissen.
   2. Unser Material-O-Mat stellt dir zwei Fragen – und empfiehlt das passende Filament.

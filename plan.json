@@ -340,7 +340,7 @@
  {
   "series": "Service",
   "title": "Material-O-Mat",
-  "status": "Offen",
+  "status": "Eingeplant",
   "hook": "PLA, PETG oder ASA? Du musst es nicht wissen.",
   "voice": [
    "PLA, PETG oder ASA? Du musst es nicht wissen.",
@@ -354,7 +354,7 @@
    "Ergebnis-Karte",
    "Endkarte"
   ],
-  "assets": "Optional: Screen-Recording Material-O-Mat",
+  "assets": "Keine, Material-O-Mat von technikdruck.de nachgebaut (Innenbereich → flexibel → TPU)",
   "id": "TD-03",
   "brand": "td",
   "date": "2026-11-20",
@@ -369,7 +369,8 @@
   "caption": "PLA, PETG oder ASA? Du musst es nicht wissen.\n\nUnser Material-O-Mat stellt dir zwei Fragen – und empfiehlt das passende Filament. Drinnen oder draußen, fest oder flexibel. Probier’s auf technikdruck.de.\n\n👉 Anfrage & Shop: technikdruck.de (Link in Bio)\n\n#TechnikDruck #3DDruck #Ersatzteil #Ostfriesland #Leer #Filament #PLA #PETG",
   "tt_title": "Material-O-Mat",
   "yt_title": "PLA, PETG oder ASA? Du musst es nicht wissen. #shorts",
-  "filename": "TD-03_Material-O-Mat.mp4"
+  "filename": "TD-03_Material-O-Mat.mp4",
+  "file": "videos/2_eingeplant/TD-03_Material-O-Mat.mp4"
  },
  {
   "series": "Event-Netz",
