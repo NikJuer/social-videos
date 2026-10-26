@@ -8,6 +8,7 @@ Dieses Repo ist die Ablage für Dominiks Social-Media-Videos. Ablauf, Ordner und
 - Weicht der Text vom Plan ab, lege `<ID>_caption.txt` mit der fertigen Caption daneben.
 - Sprecherstimme (ElevenLabs) je Marke: **Helmut** für NetSecure.Media und StageDisplay, **„Junger Mann aus Ostfriesland“** für TechnikDruck (ab TD-02). Grundlage ist der A/B-Test bei NSM-02 (siehe `videos/3_veroeffentlicht/NSM-02_INFO.md`).
 - ElevenLabs nur mit **Eleven v4** (`model_id: "eleven_v4"`). `eleven_multilingual_v2` nicht verwenden, das klingt laut Dominik schlecht.
+- NetSecure.Media-Videos: Den Markennamen mit „Punkt“ sprechen lassen („NetSecure Punkt Media“) und am Ende den Slogan „Technik, die funktioniert.“ **flüstern** – im Sprechertext `[whispers] Technik, die funktioniert.` (Eleven-v4-Audio-Tag, wird nicht mitgesprochen).
 
 ## Rolle „Planung“ (Einplanen in Metricool, Brand-ID 7358750, Zeitzone Europe/Berlin)
 1. Neue Dateien in `videos/1_neu/` prüfen: 1080×1920, H.264/AAC, SDR. HDR/HLG mit Tonemapping nach BT.709 umwandeln.
